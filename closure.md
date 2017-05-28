@@ -47,6 +47,7 @@ print(reversed7)
 //public func > <T:Comparable>(lhs:T, rhs:T) -> Bool
 
 //클로저로서의 연산자 함수 사용
-let reversed8:[String] = names.sorted{by: > }
+let reversed8:[String] = names.sorted(by: > )
+print(reversed8)
 ```
 
