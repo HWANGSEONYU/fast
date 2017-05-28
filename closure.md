@@ -1,4 +1,4 @@
-#클로저
+# 클로저
 
 ```swift
 //public func sorted(by areInIncreasingOrder:(Element, Element) ->Bool) -> [Element]
